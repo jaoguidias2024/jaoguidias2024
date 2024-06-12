@@ -2,11 +2,13 @@
 
 Meu nome é João Guilherme 
 
--Estou estudando na Alura;
--Estou desenvolvendo a linguagem javascript;
--Utilizo esse espaço para minha organização e compartilhamento de projetos;
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou desenvolvendo a linguagem javascript;
+- Utilizo esse espaço para minha organização e compartilhamento de projetos;
 
-###Você pode entrar em contato comigo 📧
+### Você pode entrar em contato comigo 📧
 
 joaoguilhermediasp@gmail.com
 ig: @jaoguidiasp
+
+![](https://media1.tenor.com/m/-qBsG1HwR4oAAAAC/cat-dance-dancing-cat.gif)
