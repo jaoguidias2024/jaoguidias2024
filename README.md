@@ -1,4 +1,4 @@
-## Bem vindo ao meu perfil 🦨
+## Bem vindo ao meu perfil 
 
 Meu nome é João Guilherme 
 
@@ -11,4 +11,4 @@ Meu nome é João Guilherme
 joaoguilhermediasp@gmail.com
 ig: @jaoguidiasp
 
-![](https://media1.tenor.com/m/-qBsG1HwR4oAAAAC/cat-dance-dancing-cat.gif)
+
